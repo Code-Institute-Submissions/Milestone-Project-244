@@ -13,4 +13,9 @@
     position: relative;
 }
 
-
+nav{
+    padding: 2% 6%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

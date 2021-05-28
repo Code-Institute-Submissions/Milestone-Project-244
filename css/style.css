@@ -71,11 +71,11 @@ nav {
 .find-more {
      display: inline-block;
      text-decoration: none;
-     color: #f6a526;
+     color: black;
      border: 2px solid #f6a526;
      padding: 12px 34px;
      font-size: 15px;
-     background: transparent;
+     background: #f6a526;
      position: relative;
 }
 

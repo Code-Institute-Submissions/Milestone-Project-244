@@ -79,3 +79,20 @@ nav {
      position: relative;
 }
 
+.info {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.info h1 {
+    font-size: 50px;
+}
+
+.info p {
+    padding-top: 30px;
+    font-size: medium;
+}
+
+.wellness-video {
+    padding-top: 50px;
+}

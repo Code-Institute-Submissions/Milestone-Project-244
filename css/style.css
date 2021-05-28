@@ -65,7 +65,8 @@ nav {
 .opening-text p {
    margin: 10px 0 40px;
    font-size: 14px;
-   color: white
+   color: white;
+   font-weight: 100;
 }
 
 .find-more {
@@ -80,6 +81,7 @@ nav {
 }
 
 .info {
+    
     text-align: center;
     padding-top: 50px;
 }
@@ -91,7 +93,7 @@ nav {
 }
 
 .info p {
-    padding-top: 30px;
+    padding-top: 10px;
     font-size: medium;
     line-height: 25px;
 }
@@ -103,6 +105,7 @@ nav {
 
 .wellness-video {
     padding-top: 50px;
+    border-width: 0px;
 }
 
 .home-box {
@@ -113,10 +116,17 @@ nav {
     display: inline-block;
     width: 30%;
     vertical-align: top;
-    padding-right: 10px 0 10px;
+    padding-right: 10px;
     border: 1px solid #f6a526;
     background: #f6a526;
     height: 200px;
+}
+.home-box h1 {
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 50px;
+    color: #f6a526;
+    font-weight: 500;
 }
 .home-box p {
     font-weight: 200;
@@ -138,7 +148,31 @@ nav {
     display: inline-block;
     width: 30%;
     vertical-align: top;
-    padding-right: 10px 0 10px;
+    padding-right: 10px;
     height: 600px;
     overflow: hidden;
-  }
+    border-radius: 10px;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 50px;
+}
+.footer p {
+    padding-top: 15px;
+    font-weight: 100;
+}
+.footer-design {
+    border: 1px solid #f6a526;
+    background: #f6a526;
+}
+
+.footer-design i {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 1em;
+}
+
+
+

@@ -78,6 +78,7 @@ nav {
      font-size: 15px;
      background: #f6a526;
      position: relative;
+     box-shadow: 0 0 2px;
 }
 
 .info {
@@ -120,6 +121,7 @@ nav {
     border: 1px solid #f6a526;
     background: #f6a526;
     height: 200px;
+    box-shadow: 0 0 5px black;
 }
 .home-box h1 {
     padding-bottom: 50px;
@@ -152,6 +154,7 @@ nav {
     height: 600px;
     overflow: hidden;
     border-radius: 10px;
+    box-shadow: 0 0 2px;
 }
 
 .footer {
@@ -165,6 +168,7 @@ nav {
 .footer-design {
     border: 1px solid #f6a526;
     background: #f6a526;
+    box-shadow: 0 0 5px;
 }
 
 .footer-design i {

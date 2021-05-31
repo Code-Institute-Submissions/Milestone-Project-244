@@ -373,3 +373,11 @@ nav {
     margin: 210px 20px 30px 20px;
     font-size: 30px;
 }
+/*--------------------MINDFULNESS SECTION--------------------*/
+.mind-main {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url(../media/images/Mindfulness.jpg);
+    background-size: cover;
+    position: relative;
+}

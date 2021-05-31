@@ -4,7 +4,9 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
-
+body {
+    background-color: #f2f2f2;
+}
 /* .main contains background image with gradient for text to overlay */
 .main {
     min-height: 100vh;
@@ -187,4 +189,45 @@ nav {
     position: relative;
 }
 
-
+.how-to-med {
+    text-align: center;
+}
+.how-to-med h1 {
+    padding-top: 50px;
+    font-size: 50px;
+    font-weight: 500;
+    color: #f6a526;
+}
+/*          SPACER          */
+.new-box-style1 {
+    padding-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.box1 {
+    clear: both;
+    float: left;
+    position: relative;
+    width: 550px;
+    height: 475px;
+    left: 20px;
+    background: rgba(246, 165, 38, 0.93);
+    color: black;
+    padding-bottom: 10px;
+}
+.interior1 h2 {
+    padding-top: 50px;
+    font-size: 50px;
+}
+.interior1 p {
+    transform: translate(0, 60%);
+    line-height: 25px;
+    font-size: large;
+    font-weight: 100;
+}
+.vid-pos1 {
+    float: right;
+    padding-right: 20px;
+    border: 0px;
+}
+/*          SPACER          */

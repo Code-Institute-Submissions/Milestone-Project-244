@@ -76,7 +76,6 @@ nav {
      display: inline-block;
      text-decoration: none;
      color: black;
-     border: 2px solid #f6a526;
      padding: 12px 34px;
      font-size: 15px;
      background: #f6a526;
@@ -121,7 +120,6 @@ nav {
     width: 30%;
     vertical-align: top;
     padding-right: 10px;
-    border: 1px solid #f6a526;
     background: #f6a526;
     height: 200px;
     box-shadow: 0 0 5px black;

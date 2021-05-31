@@ -381,3 +381,90 @@ nav {
     background-size: cover;
     position: relative;
 }
+.mind-info{
+    text-align: center;
+    padding-top: 50px;
+}
+.mind-info h1{
+    font-size: 50px;
+    font-weight: 500;
+    color: #f6a526;
+}
+.mind-box {
+    padding-top: 10px;
+}
+.mind-box p{
+    padding-top: 10px;
+    width: 900px;
+    height: fit-content;
+    left: 20px;
+    background: rgba(246, 165, 38, 0.93);
+    color: black;
+    padding-bottom: 10px;
+    box-shadow: 0 0 5px;
+    margin: 20px 20px 30px 250px;
+}
+.mind-how-to h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    color: #f6a526;
+    padding-bottom: 50px;
+}
+.mind-box1 {
+    float: left;
+    padding-left: 50px ;
+    width: 50%;
+    text-align: center;
+    position: relative;
+}
+.mind-box1 h2 {
+    padding-top: 300px;
+    padding-bottom: 20px;
+}
+.mind-box1 p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 200;
+}
+.row1{
+    padding-top: 50px;
+    text-align: center;
+  }
+.column1 {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    padding-right: 10px;
+    height: 500px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 2px;
+}
+.mind-box2 {
+    float: right;
+    text-align: center;
+    padding-top: 250px;
+    padding-right: 200px;
+}
+.mind-box2 p {
+    padding-top: 10px;
+}
+.row2{
+    padding-top: 50px;
+    text-align: center;
+  }
+.column2 {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    height: 500px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 2px;
+}
+#wd {
+    height: 500px;
+    width: 450px;
+}

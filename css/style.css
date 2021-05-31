@@ -133,7 +133,7 @@ nav {
     font-weight: 500;
 }
 .home-box p {
-    font-weight: 200;
+    font-weight: 300;
     padding-right: 20px;
     padding-left: 20px ;
     padding-top: 30px;
@@ -168,7 +168,7 @@ nav {
 }
 .footer p {
     padding-top: 10px;
-    font-weight: 100;
+    font-weight: 300;
 }
 .footer-design {
     clear: both;
@@ -227,7 +227,7 @@ nav {
     transform: translate(0, 60%);
     line-height: 25px;
     font-size: large;
-    font-weight: 100;
+    font-weight: 300;
 }
 .vid-pos1 {
     box-shadow: 0 0 5px;
@@ -251,7 +251,7 @@ nav {
 
 .inner-text p {
     padding-top: 10px;
-    font-weight: 100;
+    font-weight: 300;
 }
 .inner-text i {
     padding-top: 15px;
@@ -262,3 +262,114 @@ nav {
 }
 
 /*------------------------YOGA PAGE------------------------*/
+.yoga-main {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url(../media/images/MatUnroll.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.yoga-info {
+    text-align: center;
+    padding-top: 50px;
+}
+.yoga-info h1 {
+    font-size: 50px;
+    font-weight: 500;
+    color: #f6a526;
+}
+
+.yoga-box {
+    text-align: center;
+}
+.yoga-box h2 {
+    padding-top: 20px;
+}
+.yoga-info {
+    text-align: center;
+}
+.yoga-info p {
+    padding-top: 20px;
+    font-weight: 300;
+}
+.row2{
+    padding-top: 50px;
+    text-align: center;
+  }
+.column2 {
+    position: relative;
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    padding-right: 10px;
+    height: 600px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 2px;
+    top: 0;
+}
+.box-text1 {
+    top: 0;
+    text-align: center;
+}
+.box-text1 h3 {
+    position: absolute;
+    top: 0;
+    background: transparent;
+    color: white;
+    margin: 40px 20px 30px 20px;
+    font-size: 30px;
+    text-shadow: 1px 1px #f6a526;
+}
+.box-text1 p {
+    font-weight: 300;
+    position: absolute;
+    top: 0;
+    background: transparent;
+    color: white;
+    text-shadow: 1px 1px #f6a526;
+    margin: 210px 20px 30px 20px;
+    font-size: 30px;
+}
+.box-text2 {
+    text-align: center;
+}
+.box-text2 h3 {
+    position: absolute;
+    top: 0;
+    background: transparent;
+    color: white;
+    margin: 40px 20px 30px 20px;
+    font-size: 30px;
+    text-shadow: 1px 1px #f6a526;
+}
+.box-text2 p {
+    font-weight: 300;
+    position: absolute;
+    top: 0;
+    background: transparent;
+    color: white;
+    text-shadow: 1px 1px #f6a526;
+    margin: 210px 20px 30px 20px;
+    font-size: 30px;
+}
+.box-text3 h3 {
+    position: absolute;
+    top: 0;
+    background: transparent;
+    color: white;
+    margin: 40px 20px 30px 20px;
+    font-size: 30px;
+    text-shadow: 1px 1px #f6a526;
+}
+.box-text3 p {
+    font-weight: 300;
+    position: absolute;
+    top: 0;
+    background: transparent;
+    color: white;
+    text-shadow: 1px 1px #f6a526;
+    margin: 210px 20px 30px 20px;
+    font-size: 30px;
+}

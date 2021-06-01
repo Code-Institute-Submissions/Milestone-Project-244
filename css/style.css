@@ -72,7 +72,7 @@ nav {
    font-weight: 300;
    line-height: 25px;
 }
-
+/*Find Out More Button*/
 .find-more {
      display: inline-block;
      text-decoration: none;
@@ -106,7 +106,7 @@ nav {
     color: #f6a526;
     text-decoration: none;
 }
-
+/*border width set to 0 to replace outdated frameborder element*/
 .wellness-video {
     padding-top: 50px;
     border-width: 0px;
@@ -116,6 +116,7 @@ nav {
     padding-top: 50px;
     text-align: center;
 }
+
 .wellness-box {
     display: inline-block;
     width: 30%;
@@ -188,6 +189,7 @@ a{
     padding-bottom: 20px;
 }
 /*--------------------MEDITATION PAGE--------------------*/
+/* .main contains background image with gradient for text to overlay */
 .med-main {
     min-height: 100vh;
     width: 100%;
@@ -227,6 +229,7 @@ a{
     padding-top: 50px;
     font-size: 50px;
 }
+/*a Styles the inside and leaves the outside blank*/
 .interior1 p {
     transform: translate(0, 60%);
     line-height: 25px;
@@ -264,7 +267,6 @@ a{
     padding-left: 1em;
     padding-bottom: 20px;
 }
-
 /*------------------------YOGA PAGE------------------------*/
 .yoga-main {
     min-height: 100vh;
